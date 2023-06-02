@@ -1,0 +1,22 @@
+{
+  "name": "jester",
+  "version": "1.0.0",
+  "description": "Jester",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siobhain/jester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siobhain/jester/issues"
+  },
+  "homepage": "https://github.com/siobhain/jester#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
